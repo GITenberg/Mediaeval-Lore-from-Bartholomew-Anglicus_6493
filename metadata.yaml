@@ -1,0 +1,46 @@
+_repo: Mediaeval-Lore-from-Bartholomew-Anglicus_6493
+alternative_title: De proprietatibus rerum. English
+contributor:
+  author_of_introduction:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+  creator:
+    editor:
+      agent_name: Steele, Robert
+      birthdate: 1860
+      deathdate: 1944
+      gutenberg_agent_id: '2068'
+      url: http://www.gutenberg.org/2009/agents/2068
+  translator:
+    agent_name: Trevisa, John
+    deathdate: 1402
+    gutenberg_agent_id: '41355'
+    url: http://www.gutenberg.org/2009/agents/41355
+creator:
+  author:
+    agent_name: Bartholomaeus, Anglicus, 13th cent.
+    aliases:
+    - Bartholomew, Anglicus
+    - Bartholomeus, Anglicus
+    gutenberg_agent_id: '40149'
+    url: http://www.gutenberg.org/2009/agents/40149
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civilization, Medieval'
+- !lcc 'AE'
+- !lcsh 'Science, Medieval'
+title: Mediaeval Lore from Bartholomew Anglicus
+url: http://www.gutenberg.org/ebooks/6493
